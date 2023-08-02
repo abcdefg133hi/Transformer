@@ -1,5 +1,6 @@
-## This is a project with the competition "CommonLit-Evaluate Student Summaries". Link belowed: 
-### The competition link: [a link](https://www.kaggle.com/competitions/commonlit-evaluate-student-summaries)
+## Instruction
+This is a project with the competition "CommonLit-Evaluate Student Summaries". Link belowed: 
+The competition link: [Click here](https://www.kaggle.com/competitions/commonlit-evaluate-student-summaries)
 
 ## Quick Action
 ```
